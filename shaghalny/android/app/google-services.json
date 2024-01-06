@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "587982285191",
+    "project_id": "shaghalny-a488f",
+    "storage_bucket": "shaghalny-a488f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587982285191:android:0c2cce04f765149a934b22",
+        "android_client_info": {
+          "package_name": "com.sha8alny.shaghalny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587982285191-me82mdaa82q8iqgfec609nsr7i2r4p8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sha8alny.shaghalny",
+            "certificate_hash": "490b9de10deb814eb8cbd31ee2ecb8440fa07b1c"
+          }
+        },
+        {
+          "client_id": "587982285191-to8lfj875bn4atlvomul6na0726a4ng2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sha8alny.shaghalny",
+            "certificate_hash": "fefa737c8c620c289206e5dd7c8e4d5f4ce93827"
+          }
+        },
+        {
+          "client_id": "587982285191-6ppdkksurugr884u0isi4cu7ivsm9p86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw9p6PH-wyIzNrKmpSydCc8gvyro3H5ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587982285191-5jkbrg570mtp9fvv8n9rnbs6jhntfos1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587982285191-0eqnatdtp8grom3g71ph1fphs9dad6o7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sha8alny.shaghalny"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
